@@ -1,0 +1,9 @@
+= WP's Vimwiki =
+
+== Task ==
+
+[[Music]]
+[[Linux]]
+[[Life]]
+[[Programming]]
+

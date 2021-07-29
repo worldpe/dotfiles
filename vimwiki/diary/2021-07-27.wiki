@@ -1,0 +1,10 @@
+* I want to order a laptop cooling bad so I don't to worry about this getting too hot.
+* I hope I can bring my system over to a more powerful laptop and I will probably use vanilla arch just out of convenience.
+* I think once I have a more powerful system, I will give emacs another shot, as I do like all it's features, I just don't know how to use it.
+* I'll probably master emacs someday
+* I hope I keep at this diary, I want to have a large collection of text and stuff to look at in the future so I can reflect upon and read them, I have one from high school. I might even try to 1:1 recreate it someday.
+* I think what I will do is try to listen to all of The Book Beri'ah
+
+= 11:22PM =
+* Spacevim is somewhat of a mess. I am trying to enable this boost strap setting so that I can try a potential workaround to the instructions for how to get cargo autocompletions working, as there is apparently not cargo.toml file for some reason. I wish I could just follow a tutorial for how to use native LSP and have it work, maybe that would be easier than waiting for someone who knows how to use this god forsaken configuraton. Maybe I should just uninstall it.
+* 

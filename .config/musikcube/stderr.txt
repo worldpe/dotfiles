@@ -1,0 +1,18 @@
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+[2021-07-27 19:39:48] [info] asio async_connect error: system:111 (Connection refused)
+[2021-07-27 19:39:48] [info] Error getting remote endpoint: system:107 (Transport endpoint is not connected)
+[2021-07-27 19:39:48] [error] handle_connect error: Underlying Transport Error
+PulseOut: opening device 
+pulse_blocking_stream: CHECK_VALIDITY server
+pulse_blocking_stream: CHECK_VALIDITY dir
+pulse_blocking_stream: CHECK_VALIDITY device
+pulse_blocking_stream: CHECK_VALIDITY spec
+pulse_blocking_stream: CHECK_VALIDITY channel map
+pulse_blocking_stream: context is ready
+pulse_blocking_stream: stream is ready

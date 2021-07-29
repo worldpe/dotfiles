@@ -1,0 +1,14 @@
+* I am trying to make a vim configuration that I can do everything on. I am on spacevim right now because getting the language server set up proved too difficult, though honestly, I should probably have just tried again. God I wish I knew how to do anything that I needed to.
+* I think I will stick with spacevim for maybe a week, just so I can do some rust stuff and manually manage my vimwiki.
+
+= Things I like about Spacevim =
+* It uses the spacebar for things
+* It does have some decent setup already made
+* It let me in maybe an hour have everything all working and setup
+* It has good documentation
+* I think vimfiler might be good, I didn't use lf a whole lot, but I will still probably stick with lf.
+* The completions are setup in a way that I am used to (with the arrow keys), exiting the completion menu is somewhat difficult tho.
+
+= Things I don't like about Spacevim =
+* It is very difficult to create vimwiki links because of the feature that does automatically create the extra parenthesis. I could see how that would be annoying in normal use though. I will look into if there is anything that can be done about it.
+  * [[s]][--[]Wow okay, this is trippy. It looks like it just hides them. ig I can work around this.]

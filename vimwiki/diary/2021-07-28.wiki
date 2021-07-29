@@ -1,0 +1,31 @@
+* Actually, things are not going that bad right now. I think I will after I do some more stuff in the rust handbook, likely with someone's help, get the IDE features that I want in my comfy neovim configuration. Spacevim is too slow to launch for my taste.
+* I want to stick with this. If I get past chapter 2, that will be very good, if I don't go all the way, ig it is fine tho.
+* Maybe someday it will wrap the text. I'll ask on the community chat.
+* Overall tho, maybe I can make Spacevim work for me, atleast for a bit.
+* Oh the error messages are also not wrapping.
+* Oh cool, I only have 1 more album before I have finished The Book Beri-ah
+* I am confident I will be able to learn rust syntax. I hope I can make the jump into being able to program tho.
+* An improvement that I will make in my own vim configuration is to have space tab move to the left most buffer and shift space tab move to the right buffer, despite this being something people would want to do normally, they have it bound to space + N + b for whatever reason.
+* Things I like about spacevim: [[Spacevim]] 
+
+= 3:45pm =
+* I am not doing good right now. What I am currently tasked to do is not very fun at all. It is 90-100 degrees outside
+* Why didn't the git bare repo work? I feel so sick & tired. I don't know what to do.
+* I guess if I get a heat stroke, I can get out of work. Dunno if that is a good thing tho, but it's not like I can choose to get a heat stroke tho
+* I hope that it rains thursday and friday if it means the temperature going down.
+* I have to go back out soon. God.
+* I didn't see her out there. Hmm. I'll look again in several minutes.
+* I hope that I can learn some more rust tonight.
+* I finished 3.1, it just talks a bit about mutability and constants.
+
+= 4:25pm =
+* I looked for her but she and the truck are nowhere to be found. I don't know if she is giving me a longer break or what. I don't think I am in trouble if I can't find her, but who knows.
+* I try to make and keep friends, but it feels like it almost never works out. I also feel like I am losing my current friends. All with virtually nothing going right for me in most other facets of life.
+
+= 7:11pm =
+* I'll never be good enough for anything. I'll never be able to work hard enough, to be charismatic enough, to look good enough or anything. I'll never have good fulfilling relationships with anyone. I am doomed to be alone and suffering forever doing bs work.
+* There are so much problems in the world and most people are seemingly too dumb to even think these problems are even bad. They actively think it's good that fast food workers only take home $150 a week to live on and anything at all to remedy this arrangement is worth of scalding. And this is a relatively mundane issue, it applies even more so to more serious problems. 
+  * Maybe this is what people want. Maybe all you can do is be misanthropic. No one is good enough or worthy of being saved.
+
+= 8:28pm =
+* I hope hay season is over soon. It seems like it might be over with as soon as this week, as late as next week. Of course school starts soon after, lucky me. What a great summer "vacation".

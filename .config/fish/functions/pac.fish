@@ -1,0 +1,3 @@
+function pac --wraps=pacman\ -Slq\ \|\ fzf\ -m\ --preview\ \'cat\ \<\(pacman\ -Si\ \{1\}\)\ \<\(pacman\ -Fl\ \{1\}\ \|\ awk\ \{print\ \$2\}\)\'\ \|\ xargs\ -ro\ sudo\ pacman\ -S --wraps=pacman\ -Slq\ \|\ sk\ --multi\ --preview\ \'cat\ \<\(pacman\ -Si\ \{1\}\)\ \<\(pacman\ -Fl\ \{1\}\ \|\ awk\ \'\{print\ \}\'\)\'\ \|\ xargs\ -ro\ sudo\ pacman\ -S --description alias\ pac=pacman\ -Slq\ \|\ sk\ --multi\ --preview\ \'cat\ \<\(pacman\ -Si\ \{1\}\)\ \<\(pacman\ -Fl\ \{1\}\ \|\ awk\ \'\{print\ \}\'\)\'\ \|\ xargs\ -ro\ sudo\ pacman\ -S
+  pacman -Slq | sk --multi --preview 'cat <(pacman -Si {1}) <(pacman -Fl {1} | awk '{print }')' | xargs -ro sudo pacman -S $argv; 
+end

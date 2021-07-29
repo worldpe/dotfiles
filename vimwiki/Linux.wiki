@@ -1,0 +1,7 @@
+* [[Nushell or Ion Shell]]
+* [[Starship Prompt]]
+* [[MPD]]
+* [[Arch install]]
+* [[Emacs]]
+* [[
+* [[Spacevim]]

@@ -1,0 +1,3 @@
+* I started more on this today, I thought about doing nushell because I like that it has fish link colors, while ion doesn't. Ion is faster however, so I guess it is fine. I do like the default pwd prompt on nu-shell tho. I guess I am just missing my aliases. I tried to use my aliases for it, but it didn't work out & they didn't seem to work. It seems the only thing in my config being read is the thing I added via the command.
+* I also want to create a [[Starship Prompt]] for all my shells, but that also doesn't seem to have a config file that is responsive.
+*  

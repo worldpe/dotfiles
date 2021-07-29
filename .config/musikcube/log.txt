@@ -1,0 +1,659 @@
+19:39:48 [info] [LOG SESSION] ---------- START ----------
+19:39:48 [info] [PluginFactory] loading plugins
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+19:39:48 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+19:39:49 [info] [Indexer] indexer source -1303229654 running...
+19:39:49 [info] [GaplessTransport] starting track at /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+19:39:49 [info] [Player] new instance created
+19:39:49 [info] [GaplessTransport] stop
+19:39:49 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+19:39:49 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+19:39:49 [info] [ffmpegdecoder] parsing data stream...
+19:39:49 [info] [ffmpegdecoder] found audio stream!
+19:39:49 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+19:39:49 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+19:39:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+19:39:50 [info] [Indexer] indexer source -1303229654 finished
+19:39:50 [info] [Indexer] scanning /home/wpeace/Music/complete/
+19:39:50 [info] [Indexer] scan completed successfully
+19:39:50 [info] [Indexer] cleanup 1/2
+19:39:50 [info] [Indexer] cleanup 2/2
+19:39:50 [info] [Indexer] optimizing
+19:39:50 [info] [Indexer] done!
+20:02:38 [info] [GaplessTransport] resume
+20:02:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:02:38 [info] [Player] new instance created
+20:02:38 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/82 - Chitzonuyut.flac
+20:02:38 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/82 - Chitzonuyut.flac
+20:02:38 [info] [ffmpegdecoder] parsing data stream...
+20:02:38 [info] [ffmpegdecoder] found audio stream!
+20:02:38 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:02:38 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/82 - Chitzonuyut.flac
+20:02:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:02:39 [info] [GaplessTransport] pause
+20:03:12 [info] [GaplessTransport] starting track at /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/49 - Sapir.flac
+20:03:12 [info] [Player] new instance created
+20:03:12 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/49 - Sapir.flac
+20:03:12 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/49 - Sapir.flac
+20:03:12 [info] [ffmpegdecoder] parsing data stream...
+20:03:12 [info] [GaplessTransport] stop
+20:03:12 [info] [ffmpegdecoder] found audio stream!
+20:03:12 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:03:12 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/49 - Sapir.flac
+20:03:12 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:03:13 [info] [Player] new instance created
+20:03:13 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/50 - Ratzon.flac
+20:03:13 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/50 - Ratzon.flac
+20:03:13 [info] [ffmpegdecoder] parsing data stream...
+20:03:13 [info] [ffmpegdecoder] found audio stream!
+20:03:13 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:03:13 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/50 - Ratzon.flac
+20:03:13 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:07:26 [info] [ffmpegdecoder] finished decoding.
+20:07:28 [info] [GaplessTransport] stop
+20:07:29 [info] [Player] new instance created
+20:07:29 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/51 - Tomer.flac
+20:07:29 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/51 - Tomer.flac
+20:07:29 [info] [ffmpegdecoder] parsing data stream...
+20:07:29 [info] [ffmpegdecoder] found audio stream!
+20:07:29 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:07:29 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/51 - Tomer.flac
+20:07:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:12:03 [info] [ffmpegdecoder] finished decoding.
+20:12:05 [info] [GaplessTransport] stop
+20:12:06 [info] [Player] new instance created
+20:12:06 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/52 - Nekevah.flac
+20:12:06 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/52 - Nekevah.flac
+20:12:06 [info] [ffmpegdecoder] parsing data stream...
+20:12:06 [info] [ffmpegdecoder] found audio stream!
+20:12:06 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:12:06 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/52 - Nekevah.flac
+20:12:06 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:17:06 [info] [ffmpegdecoder] finished decoding.
+20:17:09 [info] [GaplessTransport] stop
+20:17:09 [info] [Player] new instance created
+20:17:09 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/53 - Zivugim.flac
+20:17:09 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/53 - Zivugim.flac
+20:17:09 [info] [ffmpegdecoder] parsing data stream...
+20:17:09 [info] [ffmpegdecoder] found audio stream!
+20:17:09 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:17:09 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/53 - Zivugim.flac
+20:17:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:22:31 [info] [ffmpegdecoder] finished decoding.
+20:22:33 [info] [GaplessTransport] stop
+20:22:34 [info] [Player] new instance created
+20:22:34 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/54 - Pirke Avot.flac
+20:22:34 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/54 - Pirke Avot.flac
+20:22:34 [info] [ffmpegdecoder] parsing data stream...
+20:22:34 [info] [ffmpegdecoder] found audio stream!
+20:22:34 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:22:34 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/54 - Pirke Avot.flac
+20:22:34 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:27:08 [info] [ffmpegdecoder] finished decoding.
+20:27:10 [info] [GaplessTransport] stop
+20:27:10 [info] [Player] new instance created
+20:27:10 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/55 - Ha-Murgash.flac
+20:27:10 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/55 - Ha-Murgash.flac
+20:27:10 [info] [ffmpegdecoder] parsing data stream...
+20:27:10 [info] [ffmpegdecoder] found audio stream!
+20:27:10 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:27:10 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/55 - Ha-Murgash.flac
+20:27:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:27:13 [info] [GaplessTransport] pause
+20:27:19 [info] [GaplessTransport] resume
+20:32:15 [info] [ffmpegdecoder] finished decoding.
+20:32:17 [info] [GaplessTransport] stop
+20:32:17 [info] [Player] new instance created
+20:32:17 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/56 - Atarah.flac
+20:32:17 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/56 - Atarah.flac
+20:32:17 [info] [ffmpegdecoder] parsing data stream...
+20:32:17 [info] [ffmpegdecoder] found audio stream!
+20:32:17 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:32:17 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/56 - Atarah.flac
+20:32:17 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:40:51 [info] [ffmpegdecoder] finished decoding.
+20:40:53 [info] [GaplessTransport] stop
+20:40:53 [info] [Player] new instance created
+20:40:53 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/57 - Shi'ur Koma.flac
+20:40:53 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/57 - Shi'ur Koma.flac
+20:40:53 [info] [ffmpegdecoder] parsing data stream...
+20:40:53 [info] [ffmpegdecoder] found audio stream!
+20:40:53 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+20:40:53 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/57 - Shi'ur Koma.flac
+20:40:53 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+20:41:48 [info] [GaplessTransport] pause
+21:45:48 [info] [GaplessTransport] resume
+21:49:23 [info] [ffmpegdecoder] finished decoding.
+21:49:26 [info] [GaplessTransport] stop
+21:49:26 [info] [Player] new instance created
+21:49:26 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/58 - Safra.flac
+21:49:26 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/58 - Safra.flac
+21:49:26 [info] [ffmpegdecoder] parsing data stream...
+21:49:26 [info] [ffmpegdecoder] found audio stream!
+21:49:26 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+21:49:26 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/58 - Safra.flac
+21:49:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:53:26 [info] [ffmpegdecoder] finished decoding.
+21:53:28 [info] [GaplessTransport] stop
+21:53:28 [info] [Player] new instance created
+21:53:28 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/59 - Re'cha.flac
+21:53:28 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/59 - Re'cha.flac
+21:53:28 [info] [ffmpegdecoder] parsing data stream...
+21:53:28 [info] [ffmpegdecoder] found audio stream!
+21:53:28 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+21:53:28 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/59 - Re'cha.flac
+21:53:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+21:56:35 [info] [ffmpegdecoder] finished decoding.
+21:56:37 [info] [GaplessTransport] stop
+21:56:38 [info] [Player] new instance created
+21:56:38 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/60 - Merkaba.flac
+21:56:38 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/60 - Merkaba.flac
+21:56:38 [info] [ffmpegdecoder] parsing data stream...
+21:56:38 [info] [ffmpegdecoder] found audio stream!
+21:56:38 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+21:56:38 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/60 - Merkaba.flac
+21:56:38 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:00:56 [info] [ffmpegdecoder] finished decoding.
+22:00:58 [info] [GaplessTransport] stop
+22:00:58 [info] [Player] new instance created
+22:00:58 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/61 - Hispashut.flac
+22:00:58 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/61 - Hispashut.flac
+22:00:58 [info] [ffmpegdecoder] parsing data stream...
+22:00:58 [info] [ffmpegdecoder] found audio stream!
+22:00:58 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:00:58 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/61 - Hispashut.flac
+22:00:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:02:28 [info] [GaplessTransport] pause
+22:02:50 [info] [GaplessTransport] resume
+22:07:40 [info] [ffmpegdecoder] finished decoding.
+22:07:42 [info] [GaplessTransport] stop
+22:07:42 [info] [Player] new instance created
+22:07:42 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/62 - Olamot.flac
+22:07:42 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/62 - Olamot.flac
+22:07:42 [info] [ffmpegdecoder] parsing data stream...
+22:07:42 [info] [ffmpegdecoder] found audio stream!
+22:07:42 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:07:42 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/62 - Olamot.flac
+22:07:42 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:12:36 [info] [ffmpegdecoder] finished decoding.
+22:12:38 [info] [GaplessTransport] stop
+22:12:39 [info] [Player] new instance created
+22:12:39 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/63 - Hod.flac
+22:12:39 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/63 - Hod.flac
+22:12:39 [info] [ffmpegdecoder] parsing data stream...
+22:12:39 [info] [ffmpegdecoder] found audio stream!
+22:12:39 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:12:39 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/63 - Hod.flac
+22:12:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:18:37 [info] [ffmpegdecoder] finished decoding.
+22:18:40 [info] [GaplessTransport] stop
+22:18:40 [info] [Player] new instance created
+22:18:40 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/64 - Takhlit.flac
+22:18:40 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/64 - Takhlit.flac
+22:18:40 [info] [ffmpegdecoder] parsing data stream...
+22:18:40 [info] [ffmpegdecoder] found audio stream!
+22:18:40 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:18:40 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/64 - Takhlit.flac
+22:18:40 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:24:13 [info] [ffmpegdecoder] finished decoding.
+22:24:15 [info] [GaplessTransport] stop
+22:24:15 [info] [Player] new instance created
+22:24:15 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/65 - Shelemut.flac
+22:24:15 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/65 - Shelemut.flac
+22:24:15 [info] [ffmpegdecoder] parsing data stream...
+22:24:15 [info] [ffmpegdecoder] found audio stream!
+22:24:15 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:24:15 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/65 - Shelemut.flac
+22:24:15 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:31:59 [info] [ffmpegdecoder] finished decoding.
+22:32:01 [info] [GaplessTransport] stop
+22:32:01 [info] [Player] new instance created
+22:32:01 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/66 - Sharak.flac
+22:32:01 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/66 - Sharak.flac
+22:32:01 [info] [ffmpegdecoder] parsing data stream...
+22:32:01 [info] [ffmpegdecoder] found audio stream!
+22:32:01 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:32:01 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/66 - Sharak.flac
+22:32:01 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:41:05 [info] [ffmpegdecoder] finished decoding.
+22:41:07 [info] [GaplessTransport] stop
+22:41:07 [info] [Player] new instance created
+22:41:07 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/67 - Tahor.flac
+22:41:07 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/67 - Tahor.flac
+22:41:07 [info] [ffmpegdecoder] parsing data stream...
+22:41:07 [info] [ffmpegdecoder] found audio stream!
+22:41:07 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:41:07 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/67 - Tahor.flac
+22:41:07 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:49:56 [info] [ffmpegdecoder] finished decoding.
+22:49:58 [info] [GaplessTransport] stop
+22:49:58 [info] [Player] new instance created
+22:49:58 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/68 - Madregut.flac
+22:49:58 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/68 - Madregut.flac
+22:49:58 [info] [ffmpegdecoder] parsing data stream...
+22:49:58 [info] [ffmpegdecoder] found audio stream!
+22:49:58 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+22:49:58 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/68 - Madregut.flac
+22:49:58 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+22:55:31 [info] [GaplessTransport] pause
+23:02:59 [info] [GaplessTransport] resume
+23:08:06 [info] [ffmpegdecoder] finished decoding.
+23:08:08 [info] [GaplessTransport] stop
+23:08:09 [info] [Player] new instance created
+23:08:09 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/69 - Reiah.flac
+23:08:09 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/69 - Reiah.flac
+23:08:09 [info] [ffmpegdecoder] parsing data stream...
+23:08:09 [info] [ffmpegdecoder] found audio stream!
+23:08:09 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+23:08:09 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/69 - Reiah.flac
+23:08:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:14:09 [info] [ffmpegdecoder] finished decoding.
+23:14:11 [info] [GaplessTransport] stop
+23:14:11 [info] [Player] new instance created
+23:14:11 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/70 - Akudim.flac
+23:14:11 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/70 - Akudim.flac
+23:14:11 [info] [ffmpegdecoder] parsing data stream...
+23:14:11 [info] [ffmpegdecoder] found audio stream!
+23:14:11 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+23:14:11 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/70 - Akudim.flac
+23:14:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:22:53 [info] [ffmpegdecoder] finished decoding.
+23:22:55 [info] [GaplessTransport] stop
+23:22:55 [info] [Player] new instance created
+23:22:55 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/71 - Shmecha.flac
+23:22:55 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/71 - Shmecha.flac
+23:22:55 [info] [ffmpegdecoder] parsing data stream...
+23:22:55 [info] [ffmpegdecoder] found audio stream!
+23:22:55 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+23:22:55 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/71 - Shmecha.flac
+23:22:55 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:26:19 [info] [GaplessTransport] pause
+23:26:34 [info] [GaplessTransport] resume
+23:26:39 [info] [GaplessTransport] pause
+23:30:36 [info] [GaplessTransport] resume
+23:35:08 [info] [ffmpegdecoder] finished decoding.
+23:35:10 [info] [GaplessTransport] stop
+23:35:10 [info] [Player] new instance created
+23:35:10 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/72 - Iggulim.flac
+23:35:10 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/72 - Iggulim.flac
+23:35:10 [info] [ffmpegdecoder] parsing data stream...
+23:35:10 [info] [ffmpegdecoder] found audio stream!
+23:35:10 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+23:35:10 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/72 - Iggulim.flac
+23:35:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:38:52 [info] [ffmpegdecoder] finished decoding.
+23:38:55 [info] [GaplessTransport] stop
+23:38:55 [info] [Player] new instance created
+23:38:55 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/73 - Nekudim.flac
+23:38:55 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/73 - Nekudim.flac
+23:38:55 [info] [ffmpegdecoder] parsing data stream...
+23:38:55 [info] [ffmpegdecoder] found audio stream!
+23:38:55 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+23:38:55 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/73 - Nekudim.flac
+23:38:55 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:44:16 [info] [ffmpegdecoder] finished decoding.
+23:44:19 [info] [GaplessTransport] stop
+23:44:19 [info] [Player] new instance created
+23:44:19 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/74 - Hekhalot Rabbati.flac
+23:44:19 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/74 - Hekhalot Rabbati.flac
+23:44:19 [info] [ffmpegdecoder] parsing data stream...
+23:44:19 [info] [ffmpegdecoder] found audio stream!
+23:44:19 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+23:44:19 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/74 - Hekhalot Rabbati.flac
+23:44:19 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+23:45:15 [info] [GaplessTransport] pause
+23:57:40 [info] [GaplessTransport] resume
+00:00:46 [info] [ffmpegdecoder] finished decoding.
+00:00:48 [info] [GaplessTransport] stop
+00:00:49 [info] [Player] new instance created
+00:00:49 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/75 - Berudim.flac
+00:00:49 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/75 - Berudim.flac
+00:00:49 [info] [ffmpegdecoder] parsing data stream...
+00:00:49 [info] [ffmpegdecoder] found audio stream!
+00:00:49 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:00:49 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/75 - Berudim.flac
+00:00:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:05:53 [info] [ffmpegdecoder] finished decoding.
+00:05:55 [info] [GaplessTransport] stop
+00:05:56 [info] [Player] new instance created
+00:05:56 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/76 - Yeshut.flac
+00:05:56 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/76 - Yeshut.flac
+00:05:56 [info] [ffmpegdecoder] parsing data stream...
+00:05:56 [info] [ffmpegdecoder] found audio stream!
+00:05:56 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:05:56 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/76 - Yeshut.flac
+00:05:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:14:12 [info] [ffmpegdecoder] finished decoding.
+00:14:14 [info] [GaplessTransport] stop
+00:14:15 [info] [Player] new instance created
+00:14:15 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/77 - Nischono.flac
+00:14:15 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/77 - Nischono.flac
+00:14:15 [info] [ffmpegdecoder] parsing data stream...
+00:14:15 [info] [ffmpegdecoder] found audio stream!
+00:14:15 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:14:15 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/77 - Nischono.flac
+00:14:15 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:19:04 [info] [ffmpegdecoder] finished decoding.
+00:19:07 [info] [GaplessTransport] stop
+00:19:07 [info] [Player] new instance created
+00:19:07 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/78 - Tehiru.flac
+00:19:07 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/78 - Tehiru.flac
+00:19:07 [info] [ffmpegdecoder] parsing data stream...
+00:19:07 [info] [ffmpegdecoder] found audio stream!
+00:19:07 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:19:07 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/78 - Tehiru.flac
+00:19:07 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:24:08 [info] [ffmpegdecoder] finished decoding.
+00:24:10 [info] [GaplessTransport] stop
+00:24:10 [info] [Player] new instance created
+00:24:10 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/79 - Dim Yoni.flac
+00:24:10 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/79 - Dim Yoni.flac
+00:24:10 [info] [ffmpegdecoder] parsing data stream...
+00:24:10 [info] [ffmpegdecoder] found audio stream!
+00:24:10 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:24:10 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/79 - Dim Yoni.flac
+00:24:10 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:28:51 [info] [ffmpegdecoder] finished decoding.
+00:28:53 [info] [GaplessTransport] stop
+00:28:53 [info] [Player] new instance created
+00:28:53 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/80 - Teshuva.flac
+00:28:53 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/80 - Teshuva.flac
+00:28:53 [info] [ffmpegdecoder] parsing data stream...
+00:28:53 [info] [ffmpegdecoder] found audio stream!
+00:28:53 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:28:53 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/80 - Teshuva.flac
+00:28:53 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:33:57 [info] [ffmpegdecoder] finished decoding.
+00:33:59 [info] [GaplessTransport] stop
+00:40:45 [info] [ffmpegdecoder] finished decoding.
+00:40:47 [info] [GaplessTransport] stop
+00:40:56 [info] [GaplessTransport] starting track at /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+00:40:56 [info] [Player] new instance created
+00:40:56 [info] [GaplessTransport] stop
+00:40:56 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+00:40:56 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+00:40:56 [info] [ffmpegdecoder] parsing data stream...
+00:40:56 [info] [ffmpegdecoder] found audio stream!
+00:40:56 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:40:56 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/81 - Sitra Achra.flac
+00:40:56 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:40:57 [info] [Player] new instance created
+00:40:57 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/82 - Chitzonuyut.flac
+00:40:57 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/82 - Chitzonuyut.flac
+00:40:57 [info] [ffmpegdecoder] parsing data stream...
+00:40:57 [info] [ffmpegdecoder] found audio stream!
+00:40:57 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:40:57 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/82 - Chitzonuyut.flac
+00:40:57 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:44:22 [info] [ffmpegdecoder] finished decoding.
+00:44:24 [info] [GaplessTransport] stop
+00:44:24 [info] [Player] new instance created
+00:44:24 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/83 - Shadim.flac
+00:44:24 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/83 - Shadim.flac
+00:44:24 [info] [ffmpegdecoder] parsing data stream...
+00:44:24 [info] [ffmpegdecoder] found audio stream!
+00:44:24 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:44:24 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/83 - Shadim.flac
+00:44:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:48:07 [info] [ffmpegdecoder] finished decoding.
+00:48:09 [info] [GaplessTransport] stop
+00:48:09 [info] [Player] new instance created
+00:48:09 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/84 - Netzokim.flac
+00:48:09 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/84 - Netzokim.flac
+00:48:09 [info] [ffmpegdecoder] parsing data stream...
+00:48:09 [info] [ffmpegdecoder] found audio stream!
+00:48:09 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:48:09 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/84 - Netzokim.flac
+00:48:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:52:59 [info] [ffmpegdecoder] finished decoding.
+00:53:02 [info] [GaplessTransport] stop
+00:53:02 [info] [Player] new instance created
+00:53:02 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/85 - Yekinah.flac
+00:53:02 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/85 - Yekinah.flac
+00:53:02 [info] [ffmpegdecoder] parsing data stream...
+00:53:02 [info] [ffmpegdecoder] found audio stream!
+00:53:02 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:53:02 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/85 - Yekinah.flac
+00:53:02 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+00:57:17 [info] [ffmpegdecoder] finished decoding.
+00:57:20 [info] [GaplessTransport] stop
+00:57:20 [info] [Player] new instance created
+00:57:20 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/86 - Netzach.flac
+00:57:20 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/86 - Netzach.flac
+00:57:20 [info] [ffmpegdecoder] parsing data stream...
+00:57:20 [info] [ffmpegdecoder] found audio stream!
+00:57:20 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+00:57:20 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/86 - Netzach.flac
+00:57:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:01:51 [info] [ffmpegdecoder] finished decoding.
+01:01:54 [info] [GaplessTransport] stop
+01:01:54 [info] [Player] new instance created
+01:01:54 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/87 - Sapar.flac
+01:01:54 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/87 - Sapar.flac
+01:01:54 [info] [ffmpegdecoder] parsing data stream...
+01:01:54 [info] [ffmpegdecoder] found audio stream!
+01:01:54 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:01:54 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/87 - Sapar.flac
+01:01:54 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:04:03 [info] [ffmpegdecoder] finished decoding.
+01:04:05 [info] [GaplessTransport] stop
+01:04:05 [info] [Player] new instance created
+01:04:05 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/88 - Mishkan.flac
+01:04:05 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/88 - Mishkan.flac
+01:04:05 [info] [ffmpegdecoder] parsing data stream...
+01:04:05 [info] [ffmpegdecoder] found audio stream!
+01:04:05 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:04:05 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/88 - Mishkan.flac
+01:04:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:04:36 [info] [GaplessTransport] pause
+01:04:55 [info] [GaplessTransport] resume
+01:08:18 [info] [ffmpegdecoder] finished decoding.
+01:08:20 [info] [GaplessTransport] stop
+01:08:20 [info] [Player] new instance created
+01:08:20 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/89 - Makif.flac
+01:08:20 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/89 - Makif.flac
+01:08:20 [info] [ffmpegdecoder] parsing data stream...
+01:08:20 [info] [ffmpegdecoder] found audio stream!
+01:08:20 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:08:20 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/89 - Makif.flac
+01:08:20 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:12:09 [info] [ffmpegdecoder] finished decoding.
+01:12:11 [info] [GaplessTransport] stop
+01:12:11 [info] [Player] new instance created
+01:12:11 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/90 - Atzmut.flac
+01:12:11 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/90 - Atzmut.flac
+01:12:11 [info] [ffmpegdecoder] parsing data stream...
+01:12:11 [info] [ffmpegdecoder] found audio stream!
+01:12:11 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:12:11 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/90 - Atzmut.flac
+01:12:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:13:45 [info] [ffmpegdecoder] finished decoding.
+01:13:47 [info] [GaplessTransport] stop
+01:13:47 [info] [Player] new instance created
+01:13:47 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/91 - Ayin.flac
+01:13:47 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/91 - Ayin.flac
+01:13:47 [info] [ffmpegdecoder] parsing data stream...
+01:13:47 [info] [ffmpegdecoder] found audio stream!
+01:13:47 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:13:47 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/91 - Ayin.flac
+01:13:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:17:20 [info] [ffmpegdecoder] finished decoding.
+01:17:23 [info] [GaplessTransport] stop
+01:17:23 [info] [Player] new instance created
+01:17:23 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/92 - Shemot.flac
+01:17:23 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/92 - Shemot.flac
+01:17:23 [info] [ffmpegdecoder] parsing data stream...
+01:17:23 [info] [ffmpegdecoder] found audio stream!
+01:17:23 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:17:23 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/92 - Shemot.flac
+01:17:23 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:20:50 [info] [ffmpegdecoder] finished decoding.
+01:20:53 [info] [GaplessTransport] stop
+01:20:53 [info] [Player] new instance created
+01:20:53 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/93 - Penimi.flac
+01:20:53 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/93 - Penimi.flac
+01:20:53 [info] [ffmpegdecoder] parsing data stream...
+01:20:53 [info] [ffmpegdecoder] found audio stream!
+01:20:53 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:20:53 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/93 - Penimi.flac
+01:20:53 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:24:23 [info] [ffmpegdecoder] finished decoding.
+01:24:25 [info] [GaplessTransport] stop
+01:24:26 [info] [Player] new instance created
+01:24:26 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/94 - Setumah.flac
+01:24:26 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/94 - Setumah.flac
+01:24:26 [info] [ffmpegdecoder] parsing data stream...
+01:24:26 [info] [ffmpegdecoder] found audio stream!
+01:24:26 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:24:26 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/94 - Setumah.flac
+01:24:26 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:29:44 [info] [ffmpegdecoder] finished decoding.
+01:29:47 [info] [GaplessTransport] stop
+01:29:47 [info] [Player] new instance created
+01:29:47 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/95 - Bohu.flac
+01:29:47 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/95 - Bohu.flac
+01:29:47 [info] [ffmpegdecoder] parsing data stream...
+01:29:47 [info] [ffmpegdecoder] found audio stream!
+01:29:47 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:29:47 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/95 - Bohu.flac
+01:29:47 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:34:41 [info] [ffmpegdecoder] finished decoding.
+01:34:43 [info] [GaplessTransport] stop
+01:34:44 [info] [Player] new instance created
+01:34:44 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/96 - Kayam.flac
+01:34:44 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/96 - Kayam.flac
+01:34:44 [info] [ffmpegdecoder] parsing data stream...
+01:34:44 [info] [ffmpegdecoder] found audio stream!
+01:34:44 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:34:44 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/96 - Kayam.flac
+01:34:44 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:37:47 [info] [ffmpegdecoder] finished decoding.
+01:37:49 [info] [GaplessTransport] stop
+01:37:49 [info] [Player] new instance created
+01:37:49 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/97 - Penimi.flac
+01:37:49 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/97 - Penimi.flac
+01:37:49 [info] [ffmpegdecoder] parsing data stream...
+01:37:49 [info] [ffmpegdecoder] found audio stream!
+01:37:49 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:37:49 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/97 - Penimi.flac
+01:37:49 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:43:39 [info] [ffmpegdecoder] finished decoding.
+01:43:41 [info] [GaplessTransport] stop
+01:43:41 [info] [Player] new instance created
+01:43:41 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/98 - Ketarim.flac
+01:43:41 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/98 - Ketarim.flac
+01:43:41 [info] [ffmpegdecoder] parsing data stream...
+01:43:41 [info] [ffmpegdecoder] found audio stream!
+01:43:41 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:43:41 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/98 - Ketarim.flac
+01:43:41 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:53:11 [info] [GaplessTransport] starting track at /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/98 - Ketarim.flac
+01:53:11 [info] [Player] new instance created
+01:53:11 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/98 - Ketarim.flac
+01:53:11 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/98 - Ketarim.flac
+01:53:11 [info] [ffmpegdecoder] parsing data stream...
+01:53:11 [info] [GaplessTransport] stop
+01:53:11 [info] [ffmpegdecoder] found audio stream!
+01:53:11 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:53:11 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/98 - Ketarim.flac
+01:53:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:53:11 [info] [Player] new instance created
+01:53:11 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/99 - Ge'ulah.flac
+01:53:11 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/99 - Ge'ulah.flac
+01:53:11 [info] [ffmpegdecoder] parsing data stream...
+01:53:11 [info] [ffmpegdecoder] found audio stream!
+01:53:11 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:53:11 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/99 - Ge'ulah.flac
+01:53:11 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+01:59:14 [info] [ffmpegdecoder] finished decoding.
+01:59:16 [info] [GaplessTransport] stop
+01:59:16 [info] [Player] new instance created
+01:59:16 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/100 - Rachamin.flac
+01:59:16 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/100 - Rachamin.flac
+01:59:16 [info] [ffmpegdecoder] parsing data stream...
+01:59:16 [info] [ffmpegdecoder] found audio stream!
+01:59:16 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+01:59:16 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/100 - Rachamin.flac
+01:59:16 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:03:28 [info] [ffmpegdecoder] finished decoding.
+02:03:30 [info] [GaplessTransport] stop
+02:03:30 [info] [Player] new instance created
+02:03:30 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/101 - Orot.flac
+02:03:30 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/101 - Orot.flac
+02:03:30 [info] [ffmpegdecoder] parsing data stream...
+02:03:30 [info] [ffmpegdecoder] found audio stream!
+02:03:30 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+02:03:30 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/101 - Orot.flac
+02:03:30 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:08:12 [info] [ffmpegdecoder] finished decoding.
+02:08:14 [info] [GaplessTransport] stop
+02:08:15 [info] [Player] new instance created
+02:08:15 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/102 - Tikkun.flac
+02:08:15 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/102 - Tikkun.flac
+02:08:15 [info] [ffmpegdecoder] parsing data stream...
+02:08:15 [info] [ffmpegdecoder] found audio stream!
+02:08:15 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+02:08:15 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/102 - Tikkun.flac
+02:08:15 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:11:56 [info] [ffmpegdecoder] finished decoding.
+02:11:58 [info] [GaplessTransport] stop
+02:11:59 [info] [Player] new instance created
+02:11:59 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/103 - Bohu.flac
+02:11:59 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/103 - Bohu.flac
+02:11:59 [info] [ffmpegdecoder] parsing data stream...
+02:11:59 [info] [ffmpegdecoder] found audio stream!
+02:11:59 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+02:11:59 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/103 - Bohu.flac
+02:11:59 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:15:22 [info] [ffmpegdecoder] finished decoding.
+02:15:24 [info] [GaplessTransport] stop
+02:15:24 [info] [Player] new instance created
+02:15:24 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/104 - Kayam.flac
+02:15:24 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/104 - Kayam.flac
+02:15:24 [info] [ffmpegdecoder] parsing data stream...
+02:15:24 [info] [ffmpegdecoder] found audio stream!
+02:15:24 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+02:15:24 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/104 - Kayam.flac
+02:15:24 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:17:54 [info] [GaplessTransport] pause
+02:17:55 [info] [GaplessTransport] resume
+02:21:11 [info] [ffmpegdecoder] finished decoding.
+02:21:13 [info] [GaplessTransport] stop
+02:21:14 [info] [Player] new instance created
+02:21:14 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/105 - Penimi.flac
+02:21:14 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/105 - Penimi.flac
+02:21:14 [info] [ffmpegdecoder] parsing data stream...
+02:21:14 [info] [ffmpegdecoder] found audio stream!
+02:21:14 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+02:21:14 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/105 - Penimi.flac
+02:21:14 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:30:37 [info] [ffmpegdecoder] finished decoding.
+02:30:39 [info] [GaplessTransport] stop
+02:30:39 [info] [Player] new instance created
+02:30:39 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/09 - Gadolot.flac
+02:30:39 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/09 - Gadolot.flac
+02:30:39 [info] [ffmpegdecoder] parsing data stream...
+02:30:39 [info] [ffmpegdecoder] found audio stream!
+02:30:39 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+02:30:39 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/09 - Gadolot.flac
+02:30:39 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:36:48 [info] [ffmpegdecoder] finished decoding.
+02:36:51 [info] [GaplessTransport] stop
+02:36:51 [info] [Player] new instance created
+02:36:51 [info] [Stream] opening /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/10 - Panim.flac
+02:36:51 [info] [LocalFileStream] opening file: /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/10 - Panim.flac
+02:36:51 [info] [ffmpegdecoder] parsing data stream...
+02:36:51 [info] [ffmpegdecoder] found audio stream!
+02:36:51 [info] [ffmpegdecoder] resolved codec: FLAC (Free Lossless Audio Codec)
+02:36:51 [info] [Streams] found a decoder for /home/wpeace/Music/complete/bonerjammer/[2018] The Book Beri'ah/10 - Panim.flac
+02:36:51 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+02:37:03 [info] [GaplessTransport] pause

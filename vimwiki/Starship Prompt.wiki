@@ -1,0 +1,2 @@
+* The starship prompt I have doesn't seem to respond to the config file I have. I think I will ask someone if they know why on some discord server sometime.
+* 

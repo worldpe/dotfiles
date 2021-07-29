@@ -1,0 +1,9 @@
+= Steps to creating a rust program =
+1. cargo new [Project name] && cd [Project Name]
+2. nvim src/main.rs
+3. cargo run 
+   * Creates a debug executable
+5. cargo check 
+   * Quickly checks if the code you have is valid.
+6. cargo build --release 
+   * Builds the code in an optimized way with a benchmark

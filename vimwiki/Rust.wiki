@@ -1,0 +1,6 @@
+* I want to learn Rust because of it's performance, memory safety and how cool it is.
+* The language seems pretty complex, but I know if I work at it, I will eventually get it, plus I never learned how to properly code in python, so this will give me a chance to learn how to do so.
+
+[[Chaper 1 & 2]]
+[[Chapter 3]]
+

@@ -1,0 +1,29 @@
+== 4:36PM ==
+* It is currently about 84 degrees in my house. I don't like living in such hot weather, but the only other alternative for me is to live at my mom's house, which is very messy. It could be potentially cleaned, but not in one day and there are about 2 or 3 other people living there right now. 
+* How I am staying partially sane through all these trials is that I am able to configure linux rn. I want to get a system that is as good as possible and works to my liking. Neovim has been a part of that. It is such a customizable, yet lightweight program, yet has no compromise on it's features. I can have autocompletions, linting and all the other features of bigger programs like vscode, without having to deal with the big startup times. It works perfectly on my low-spec laptop.
+* My desktop died about a week ago, which was a major blow to me honestly, as it means I can no longer play TF2, which I would honestly really like to do right now. This also happened after a recent breakup with my two gfs, which felt out of nowhere and was a big blow to me.
+* I don't know when I will date anyone again, but at least I am right now somewhat lucky that I have friends who are talking to me on a regularish basis.
+* [[Weather]] (I don't have this formatted very well, I will think of something else).
+* It's apparently not going to even rain anytime sooon, with a 10% chance at like 3am one day. It's going to be upper 80s all week. I am having a torturous time. I might even go to my mom's at this rate, just till it cols off. 
+* I'm listening to some more of The Book of Beri'ah, it's very good modern style art jazz with influences outside of that.
+* I am not going to talk too much about some things bothering me rn as I am not in a horrible mood.
+* I had a lot of fun earlier when I was trolling this guy in the vi-tality discord server. He said that he has JJ bound to exit insert mode in vim, which isn't a great idea because that makes vim wait for you to press J everytime you hit J normally. I posted a plugin that fixed this issue, but he didn't bite for some dumb reason & didn't think this poor design choice on his part was a problem. I had him take a reaction speed test, and when he got 200ms, I said that it takes him 200ms to press a key, he and a few others explained that actually you're not reacting when you type, so that isn't relevant, but I did a powerplay & just ignored that.  
+* I bound space space to be
+* I couldn't finish that note as binding space+space to exit vim made the program relatively unusable.
+* I should set up the git bare repo now.
+* Oh yeah, I also am trying to get the starship prompt configured. It doesn't seem to be reading from my config file however.
+* I can't figure out for sure if having spacebar as leader messed me over, but I think it might have, ',' is now my the leader again. I do like hitting spacebar more but whatever.
+* I can't believe how much faster the ion shell is. It has the same features as fish, while being like 3x as fast. It's apparently even faster than dash, which is already way faster than bash.
+* I think  I do like having spacebar as leader more, maybe the performance issue was just related to the computer getting hotter or whatever.
+* I think I will do kmonad tommorow, it is really hot. I think tonight I will do something else probably. I wish I could play TF2 or something. ig I could put the gpu back in and see if my desktop starts out of desperation. 
+* The screen put in by my chair is bringing in a breeze. I should move the fan there. I wish it would rain so it would cool tf off. From where it is raining nearby, it is brutally hot rn. I can't wait till the temperature drops.
+* I need to find a way to turn my json file into an OPM file
+
+== 11:30 ==
+* The new headphones I have are honestly growing on me. 
+* Now that it is night, I feel a bit better. It cooled down. I think I have vim setup so that I can start on Rust.
+* I'll do the git bare repo now
+
+== 12:48 ==
+* I still haven't done it, I ate and watched some Sean videos, but now I have scrolls setup
+* Think I will set up scrolls tonight, git tommorow 

@@ -1,0 +1,2 @@
+= 7-27-20
+* I honestly don't know why MPD isn't connecting. I probably need to do something weird to get it to work. I will look at it later

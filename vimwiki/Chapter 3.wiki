@@ -1,0 +1,32 @@
+= Variables =
+* Variables are by default immutable 
+* You can make them mutable
+* You can't change the value of an immutable variable
+
+= Constants =
+* Constants are always mutable 
+
+= Shadowing =
+* In Rust you can declare a new variable with the same name as a previous used one.
+* let effectively creates a new variable every time
+* Something about mutability that I can't wrap my head around
+
+= Data Types =
+
+== Scalar Types ==
+Represent a singular value
+1. Integet Types: Number without a fractional component
+2. Floating-Point Types: Numbers with decimal points 
+   * f32: Less precise, slightly faster
+   * f64: Default, double precision
+3. Boolean Type: 
+4. Character Type: Alphabetical type 
+   * Uses single quotes, strings use double quotes
+
+== Compound Types ==
+1. Tuple Type: Immutable list of values 
+   * To get values out of a tuple, you have to invoke a pattern of variables that match it's structure, then call one of them.
+2. Array Type: Fixed lengths, unlike in other languages  
+   * Stores data on the stack (Tuples store data on the heap)
+   * Vector Types: Does grow or shrink in size
+   * 
